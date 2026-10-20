@@ -13,7 +13,7 @@ Bonjour Camille,
 
 Merci pour mardi. Quelques nouvelles :
 
-**1. Date** : l'enseignier a besoin du logo validé pour déposer le dossier en mairie avant le 11 décembre. On a recompté avec lui, il faudrait que vous nous présentiez les pistes le **jeudi 19 novembre à 10 h**, à l'atelier. Désolée, je sais que ça vous retire une semaine.
+**1. Date** : l'enseignier a besoin du logo validé pour déposer le dossier en mairie avant le 11 décembre. On a recompté avec lui, il faudrait que vous nous présentiez l'identité le **jeudi 19 novembre à 10 h**, à l'atelier. Désolée, je sais que ça vous retire une semaine.
 
 **2. Nom** : retour de notre avocate, « Ferrand Café » est déjà déposé par une société de vending dans le Nord. **On garde donc Brûlerie Ferrand.** On aimerait quand même pouvoir utiliser « Ferrand » seul dans certains cas (avatar, gobelets…). À vous de nous dire si c'est une bonne idée.
 

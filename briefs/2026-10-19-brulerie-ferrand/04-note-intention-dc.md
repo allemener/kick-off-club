@@ -27,7 +27,7 @@ Donc je m'attends à un logotype horizontal **et** un monogramme ou un signe qui
 
 **Thomas Nguyen** · 18:19
 **Territoire 1 : l'héritage, remis à plat**
-On part des archives : l'étiquette de 1958, le lettrage peint de la vitrine. On garde l'esprit, pas le dessin. Le moulin peut survivre en signe très simplifié, ou disparaître au profit du lettrage seul.
+On part des archives : l'esprit de 1958, le lettrage peint de la vitrine. On garde l'esprit, pas le dessin. Le moulin peut survivre en signe très simplifié, ou disparaître au profit du lettrage seul.
 - Typo : un caractère à empattements contemporain, ou un lettrage sur mesure inspiré de la vitrine
 - Couleur : le rouge Ferrand **en accent**, sur une base claire. Plus vif que l'actuel, à vérifier en caisson lumineux
 - Ton : la maison de famille sûre d'elle, pas la nostalgie

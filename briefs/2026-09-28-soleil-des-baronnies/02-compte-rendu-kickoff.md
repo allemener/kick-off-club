@@ -3,11 +3,11 @@ titre: Compte rendu de la réunion de lancement, présentation AG 2026
 court: Le compte rendu
 type: compte-rendu
 auteur: Noé Garnier, service civique, Soleil des Baronnies
-date: 23 octobre 2026
+date: 25 septembre 2026
 version: v1
 ---
 **Objet** : lancement de la nouvelle présentation pour l'AG
-**Date de la réunion** : 22/10/2026, en visio
+**Date de la réunion** : 24/09/2026, en visio
 **Diffusion** : conseil d'administration, équipe salariée
 
 ## 1. Contexte
@@ -43,7 +43,7 @@ Samedi **21 novembre 2026** à 14 h, salle des fêtes de Nyons.
 
 | Étape | Date |
 |---|---|
-| Envoi du dossier | 23/10/2026 |
+| Envoi du dossier | 25/09/2026 |
 | Chiffres validés | après le CA |
 | Livraison de la présentation | 20/11/2026 |
 | AG | 21/11/2026 |

@@ -4,7 +4,7 @@ court: La note du DC
 type: conversation
 de: Thomas Nguyen (directeur de création)
 canal: Teams, conversation privée
-date: jeudi 22 octobre 2026
+date: jeudi 24 septembre 2026
 ---
 **Thomas Nguyen** · 17:40
 Hello ! Ma note d'intention pour Soleil des Baronnies, écrite juste après le kick-off. Je n'ai pas encore ouvert leur dossier, donc lis-la avec un œil critique 🙂

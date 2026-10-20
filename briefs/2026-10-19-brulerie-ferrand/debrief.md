@@ -20,8 +20,8 @@ Le mail le plus récent du client fait foi. La relecture interne, 3 jours ouvré
 Le compte rendu affirme « La marque devient Ferrand Café ». C'est faux : la décision avait été repoussée, et le mail d'Inès confirme que « Ferrand Café » est déjà déposé. **On garde Brûlerie Ferrand**, avec peut-être « Ferrand » seul (avatar, gobelet). Si tu le proposes, garde « Brûlerie » visible quelque part : c'est Gérard qui a le dernier mot sur le nom.
 
 **Thomas Nguyen** · 09:35
-**3. On a vendu une piste, pas trois**
-Tout le monde parle de trois pistes, moi le premier dans ma note. Le **devis signé** prévoit **une piste unique et 1 aller-retour**, comme sur tous nos projets. Les deux pistes supplémentaires sont une option non retenue (3 750 € HT). En présenter plus, c'est un choix commercial à faire avec Camille, pas une évidence.
+**3. Un logo, pas une exploration**
+Le **devis signé** prévoit **une piste unique et 1 aller-retour**, comme sur tous nos projets. Les pistes supplémentaires sont une option non retenue (3 750 € HT). On présente donc **un seul logo, fini et décliné**, pas trois idées à moitié faites.
 
 **Thomas Nguyen** · 09:37
 **4. Le périmètre : pas de sachets, pas de kit réseaux sociaux**

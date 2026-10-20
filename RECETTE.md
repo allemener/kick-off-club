@@ -58,6 +58,9 @@ Vise **25 à 35 fichiers**, rangés comme un vrai client le ferait (dossiers num
 - [ ] Chaque piège du debrief se retrouve bien dans une pièce ou un fichier.
 - [ ] Aucun vrai nom de marque, d'entreprise ou de personne.
 - [ ] La date de `publication` est un lundi.
+- [ ] Aucun « à suivre » qui n'aura jamais de suite : pas de recherche en cours, de point à venir ou de document promis qui n'est pas dans le dossier.
+- [ ] Toujours **un seul logo / une seule direction** : jamais « 3 pistes » dans les livrables, même dans un compte rendu faux.
+- [ ] Les consignes de rendu ne répètent pas le formulaire (nom, crédits, droits, publication sont demandés dans Tally).
 - [ ] Le site se construit sans erreur (onglet Actions vert).
 
 ## Consignes pour générer des photos crédibles

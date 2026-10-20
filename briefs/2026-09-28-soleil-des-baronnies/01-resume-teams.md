@@ -2,7 +2,7 @@
 titre: Kick-off deck AG Soleil des Baronnies
 court: Le kick-off
 type: teams
-date: jeudi 22 octobre 2026, 14:00 à 15:12
+date: jeudi 24 septembre 2026, 14:00 à 15:12
 duree: 1 h 12 min (enregistrée)
 organisateur: Malik Benali
 participants: Malik Benali (Agence, chef de projet); Thomas Nguyen (Agence, directeur de création); Toi (Agence, designer graphique); Martine Arnaud (Soleil des Baronnies, présidente du conseil d'administration); Julien Bastide (Soleil des Baronnies, directeur); Sonia Ferreira (Soleil des Baronnies, chargée de vie coopérative); Noé Garnier (Soleil des Baronnies, service civique, arrivé à 14:20)

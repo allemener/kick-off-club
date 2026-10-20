@@ -24,14 +24,3 @@ On attend un **rendu final**, présenté comme un projet de portfolio : une seul
 - Ou toute autre application qui sert ton idée
 
 Pense à varier les cadrages, par exemple un visuel graphique à plat puis des photos en situation, comme dans un vrai projet publié.
-
-## Avec ton envoi
-
-- **Ton nom ou ton pseudo**, et un lien vers ton portfolio si tu en as un
-- **Tes crédits** : qui a fait quoi (mockups, photos, typos…), pour les afficher sous ton rendu
-
-## À respecter
-
-- Les mises en situation peuvent utiliser des mockups gratuits, ou tes propres photos. Pas d'images dont tu n'as pas les droits.
-- Le client est fictif : pas de vraie marque dans tes visuels.
-- En envoyant ton rendu, tu acceptes qu'il soit publié sur Kick-off Club, avec ton nom ou ton pseudo et le lien vers ton portfolio.

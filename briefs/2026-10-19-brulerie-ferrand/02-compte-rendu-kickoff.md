@@ -40,7 +40,7 @@ La marque devient **Ferrand Café**.
 
 ## 6. Livrables
 
-1. 3 pistes de logo
+1. Un nouveau logo
 2. Charte graphique complète
 3. Enseigne du coffee shop
 4. Gobelets et carte
@@ -52,14 +52,13 @@ La marque devient **Ferrand Café**.
 | Étape | Date |
 |---|---|
 | Envoi du dossier | 16/10/2026 |
-| Présentation des pistes | 27/10/2026 |
-| Choix de la piste | début décembre |
+| Présentation du logo | 27/10/2026 |
+| Validation du logo | début décembre |
 | Charte et applications | décembre 2026 |
 | Ouverture du coffee shop | fin janvier 2027 |
 
 ## 8. Divers
 
-- Gérard Ferrand recherche l'étiquette originale de 1958.
 - Dégustation de Noël pour les clients professionnels le jeudi 10 décembre à l'atelier. L'agence est invitée.
 
 *Lucas Morel*

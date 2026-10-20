@@ -19,9 +19,9 @@ La Brûlerie Ferrand, torréfacteur familial installé à Lyon (Croix-Rousse) de
 - **Nom** : question ouverte. Inès Ferrand propose de passer à « Ferrand Café ». Gérard Ferrand souhaite garder « Brûlerie Ferrand ». Décision repoussée, vérification juridique en cours.
 - **Cibles** : particuliers amateurs de café, jeunes actifs du quartier pour le coffee shop, et les restaurateurs et hôtels clients de la brûlerie.
 - **Univers** : Inès Ferrand veut une identité « contemporaine, épurée, qui tient sur un gobelet et un écran de téléphone ». Gérard Ferrand tient au rouge historique et à l'illustration du moulin.
-- **Livrables** : pistes créatives de logo et d'identité, puis développement de la piste retenue (couleurs, typographies, éléments graphiques), mini-charte et premières applications.
+- **Livrables** : nouveau logo et identité (couleurs, typographies, éléments graphiques), mini-charte et premières applications.
 - **Contrainte forte** : l'enseigne du coffee shop doit être commandée avant le 11 décembre pour une pose en janvier.
-- **Date de présentation des pistes** : vendredi 27 novembre 2026.
+- **Date de présentation de l'identité** : vendredi 27 novembre 2026.
 
 ### Tâches de suivi
 
@@ -29,8 +29,6 @@ La Brûlerie Ferrand, torréfacteur familial installé à Lyon (Croix-Rousse) de
 - [ ] **Lucas Morel** : rédiger et diffuser le compte rendu.
 - [ ] **Inès Ferrand** : confirmer le nom après le retour de l'avocat.
 - [ ] **Camille Roussel** : renvoyer le planning.
-- [ ] **Thomas Nguyen** : organiser un point créa interne avec toi.
-- [ ] **Gérard Ferrand** : retrouver l'étiquette originale de 1958 « dans les cartons du grenier ».
 
 ## Extraits de la transcription
 
@@ -77,13 +75,13 @@ Papa, on en a parlé…
 Et le rouge. Le rouge Ferrand, les restaurateurs le connaissent, c'est sur tous nos sacs depuis quarante ans.
 
 **Thomas Nguyen** · 14:30
-On peut explorer une piste qui part de l'héritage, le moulin, le rouge, et une autre plus en rupture. Vous verrez ce que ça donne côté à côté.
+On peut partir de l'héritage, le moulin, le rouge, et le moderniser franchement. Vous aurez un logo qui vous ressemble, pas un logo de start-up.
 
 **Camille Roussel** · 14:36
-Combien de pistes vous attendez ? On part sur trois ?
+On vous présente une seule direction, aboutie, comme prévu au devis.
 
 **Inès Ferrand** · 14:36
-Trois ce serait bien. Ou ce qui est dans le devis, je ne sais plus ce qu'on a signé.
+Très bien. Je ne sais plus exactement ce qu'on a signé, mais je vous fais confiance.
 
 **Lucas Morel** · 14:44
 On a des super photos de l'atelier faites par une photographe l'année dernière, et sinon il y a toutes les photos que les clients postent sur Instagram, on pourrait les reprendre ?
@@ -104,7 +102,7 @@ Et on peut mettre « commerce équitable » sur tout, nos cafés sont tous achet
 Gérard, on n'a pas le label, on ne peut pas écrire ça comme ça. Pareil pour le bio, la certification n'arrive pas avant 2027.
 
 **Camille Roussel** · 15:10
-Côté planning, présentation des pistes le 27 novembre, ça vous va ?
+Côté planning, présentation de l'identité le 27 novembre, ça vous va ?
 
 **Inès Ferrand** · 15:10
 Oui. Enfin, il faudra voir avec l'enseignier, il nous faut le logo assez tôt pour le dossier de la mairie. Je vous redis.
@@ -119,4 +117,4 @@ Dernière chose. Faites moderne si vous voulez, Inès a raison sur Instagram. Ma
 D'accord pour le rouge, en couleur d'accent. Pour le nom, on attend l'avocat.
 
 **Camille Roussel** · 15:29
-Parfait. Lucas envoie le compte rendu, Nadia le dossier, et on se retrouve pour les pistes. Merci à tous.
+Parfait. Lucas envoie le compte rendu, Nadia le dossier, et on se retrouve pour la présentation. Merci à tous.

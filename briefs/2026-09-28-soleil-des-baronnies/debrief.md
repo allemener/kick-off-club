@@ -4,7 +4,7 @@ court: Le debrief du DC
 type: debrief
 de: Thomas Nguyen (directeur de création)
 canal: Teams, conversation privée
-date: lundi 2 novembre 2026
+date: lundi 5 octobre 2026
 ---
 **Thomas Nguyen** · 09:30
 Hello ! Voilà ce que j'aurais voulu que tu repères dans le brief Soleil des Baronnies. Pas de note : compare avec ce que tu as vu, raté ou compris autrement. Et oui, je me suis encore planté dans ma note 😅

@@ -1,7 +1,7 @@
 ---
 titre: Consignes de rendu
 court: Le rendu
-date_limite: dimanche 1er novembre 2026, 23 h 59
+date_limite: dimanche 4 octobre 2026, 23 h 59
 format: 6 à 10 visuels, 2400 × 1600 px
 formulaire: https://tally.so/r/WJO85L
 ---
@@ -26,14 +26,3 @@ On attend un **rendu final**, présenté comme un projet de portfolio : une seul
 - **Le PDF** envoyé aux sociétaires, sur un écran de téléphone ou de tablette
 
 Pense à varier les cadrages, par exemple des slides à plat puis une photo en situation, comme dans un vrai projet publié.
-
-## Avec ton envoi
-
-- **Ton nom ou ton pseudo**, et un lien vers ton portfolio si tu en as un
-- **Tes crédits** : qui a fait quoi (mockups, photos, typos…), pour les afficher sous ton rendu
-
-## À respecter
-
-- Les mises en situation peuvent utiliser des mockups gratuits, ou tes propres photos. Pas d'images dont tu n'as pas les droits.
-- Le client est fictif : pas de vraie marque dans tes visuels.
-- En envoyant ton rendu, tu acceptes qu'il soit publié sur Kick-off Club, avec ton nom ou ton pseudo et le lien vers ton portfolio.

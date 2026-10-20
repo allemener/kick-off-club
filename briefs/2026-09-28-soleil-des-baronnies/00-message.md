@@ -4,7 +4,7 @@ type: message
 de: Malik Benali (chef de projet)
 role: le chef de projet
 canal: Teams, conversation privée
-date: lundi 26 octobre 2026, 09:10
+date: lundi 28 septembre 2026, 09:10
 ---
 Hello ! Je te passe le projet **Soleil des Baronnies**.
 
