@@ -3,7 +3,7 @@ titre: Consignes de rendu
 court: Le rendu
 date_limite: dimanche 1er novembre 2026, 23 h 59
 format: 6 à 10 visuels, 2400 × 1600 px
-formulaire:
+formulaire: https://tally.so/r/WJO85L
 ---
 On attend un **rendu final**, présenté comme un projet de portfolio : une seule direction artistique, aboutie, montrée en grands visuels. Pas de pistes, pas de roughs, pas de planches remplies de texte.
 
