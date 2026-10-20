@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <g transform="translate(60,60)">
+    <path d="M40 200 A110 110 0 0 1 260 200 Z" fill="#F2B705"/>
+    <path d="M0 232 C60 196 110 196 150 220 C190 244 240 244 300 206" fill="none" stroke="#2E6B4F" stroke-width="18" stroke-linecap="round"/>
+    <path d="M0 278 C70 246 120 248 160 266 C200 284 250 282 300 254" fill="none" stroke="#2E6B4F" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <text x="420" y="205" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="92" fill="#2E6B4F" letter-spacing="-1">Soleil</text>
+  <text x="420" y="300" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="62" fill="#2E6B4F">des Baronnies</text>
+</svg>
