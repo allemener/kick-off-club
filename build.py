@@ -776,14 +776,12 @@ def rendre_rendu(b, r):
         if qui.strip():
             lignes.append((e(role.strip()), e(qui.strip())))
     credits = "".join(f"<div><dt>{a}</dt><dd>{v}</dd></div>" for a, v in lignes)
-    texte = f'<div class="rendu-texte">{md_en_html(r["texte"])}</div>' if r["texte"] else ""
     contenu = f"""<div class="plein rendu">
   <div class="rendu-credits">
     <p class="rendu-retour"><a href="../../../rendus.html#haut">← Tous les rendus</a></p>
     <div class="rendu-bas">
       <h1>{e(b['client'])}</h1>
       <p class="rendu-par">Par {nom}</p>
-      {texte}
       <dl class="rendu-liste">{credits}</dl>
     </div>
   </div>

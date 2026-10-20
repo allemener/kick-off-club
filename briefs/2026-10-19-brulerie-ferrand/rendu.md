@@ -31,7 +31,7 @@ Pense à varier les cadrages, par exemple un visuel graphique à plat puis des p
 ## Avec ton envoi
 
 - **Ton nom ou ton pseudo**, et un lien vers ton portfolio si tu en as un
-- **Trois lignes** sur ton parti pris : ce que tu as gardé, ce que tu as tranché dans le brief
+- **Tes crédits** : qui a fait quoi (mockups, photos, typos…), pour les afficher sous ton rendu
 
 ## À respecter
 

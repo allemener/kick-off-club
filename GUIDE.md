@@ -135,7 +135,7 @@ Le fichier `rendu.md` décrit ce que le designer doit rendre : des planches de D
 Chaque semaine, tu choisis les rendus à montrer. Dans le dossier du brief, crée un dossier `rendus/`, puis **un sous-dossier par designer** (par exemple `rendus/marie-dupont/`) avec :
 
 - ses visuels en JPG ou PNG, nommés dans l'ordre (`01.jpg`, `02.jpg`…). Le premier sert de couverture dans la page **Rendus** ;
-- un fichier `credits.md` : `nom` (nom ou pseudo affiché), `lien` (portfolio, facultatif), `credits` (qui a fait quoi, séparé par des points-virgules, par exemple `Identité visuelle : Marie Dupont; Photos : Unsplash`), et sous l'en-tête ses trois lignes de parti pris.
+- un fichier `credits.md` : `nom` (nom ou pseudo affiché), `lien` (portfolio, facultatif), `credits` (qui a fait quoi, séparé par des points-virgules, par exemple `Identité visuelle : Marie Dupont; Photos : Unsplash`). Pas de texte sous l'en-tête : la page du rendu affiche seulement le client, le nom et les crédits.
 
 Le site fabrique la page du rendu (visuels à droite, crédits en bas à gauche) et l'ajoute à la grille de l'onglet **Rendus**. Un exemple est dans `briefs/_modele/rendus/`.
 

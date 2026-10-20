@@ -22,6 +22,7 @@ On attend un **rendu final**, présenté comme un projet de portfolio : une seul
 - **Une planche** : une dizaine de slides côte à côte, pour montrer la cohérence du deck
 - **Quelques slides clés** : un intercalaire, un chiffre clé, un graphique, une résolution
 - **Des mockups du deck en situation** : projeté dans une salle, ouvert sur un ordinateur. C'est un vrai plus
+- **Tes animations**, si tu en as fait (c'est un plus, pas une obligation) : quelques étapes d'une slide côte à côte
 - **Le PDF** envoyé aux sociétaires, sur un écran de téléphone ou de tablette
 
 Pense à varier les cadrages, par exemple des slides à plat puis une photo en situation, comme dans un vrai projet publié.
@@ -29,7 +30,7 @@ Pense à varier les cadrages, par exemple des slides à plat puis une photo en s
 ## Avec ton envoi
 
 - **Ton nom ou ton pseudo**, et un lien vers ton portfolio si tu en as un
-- **Trois lignes** sur ton parti pris : ce que tu as gardé, ce que tu as tranché dans le brief (et tes animations si tu en as fait : c'est un plus, pas une obligation)
+- **Tes crédits** : qui a fait quoi (mockups, photos, typos…), pour les afficher sous ton rendu
 
 ## À respecter
 
