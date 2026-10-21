@@ -10,6 +10,7 @@ Chaque sous-dossier de briefs/ est un brief. Voir GUIDE.md pour le format.
 """
 
 import datetime as dt
+import hashlib
 import html
 import re
 import shutil
@@ -644,6 +645,11 @@ def rendre_document(b, d):
     return page(d["titre"], contenu, racine="../../", cote=barre_laterale(b, fichier))
 
 
+def version(f):
+    """Empreinte courte du fichier : change l'adresse quand le fichier change, pour éviter le cache du navigateur."""
+    return hashlib.md5(f.read_bytes()).hexdigest()[:8]
+
+
 def rendre_ressources(b, taille_zip, apercus, textes):
     racine = b["dossier"] / "ressources"
     groupes = {}
@@ -657,14 +663,15 @@ def rendre_ressources(b, taille_zip, apercus, textes):
         for f in sorted(groupes[dossier], key=lambda x: x.name.lower()):
             rel = "/".join(f.relative_to(racine).parts)
             ext = f.suffix.lstrip(".").upper() or "?"
+            v = version(f)
             if rel in apercus:
-                vignette = f'<img src="{e(apercus[rel])}" alt="" loading="lazy">'
+                vignette = f'<img src="{e(apercus[rel])}?v={v}" alt="" loading="lazy">'
             else:
                 vignette = f'<span class="carte-ext" aria-hidden="true">{e(ext)}</span>'
             texte = (f'<a class="carte-texte" href="{e(textes[rel])}">Version texte</a>'
                      if rel in textes else "")
             cartes.append(f"""<li class="carte">
-  <a class="carte-lien" href="ressources/{e(rel)}">
+  <a class="carte-lien" href="ressources/{e(rel)}?v={v}">
     <span class="carte-vignette">{vignette}</span>
     <span class="carte-nom">{e(f.name)}</span>
   </a>
