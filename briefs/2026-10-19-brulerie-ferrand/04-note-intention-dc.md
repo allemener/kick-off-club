@@ -45,7 +45,7 @@ Et un **territoire 3** si on a le temps : le quartier. La Croix-Rousse, les pent
 **Thomas Nguyen** · 18:26
 **Mes envies pour les applications**
 - Gobelets en **kraft naturel**, monogramme en une couleur : simple et chaleureux
-- Pour la présentation, l'enseigne mise en situation sur les **photos de l'atelier de Julie**, elles sont très belles
+- Pour la présentation, l'enseigne mise en situation sur les **photos de l'atelier de Nadia**, en pleine page, elles ont du caractère
 - Une petite famille de pictos pour les 11 origines des cafés
 
 **Thomas Nguyen** · 18:28

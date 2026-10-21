@@ -46,7 +46,7 @@ Le compte rendu dit « le rouge est conservé », sans nuance. La fin de la réu
 **Thomas Nguyen** · 09:46
 **8. Les droits** ⚠️
 - **La police actuelle** (« Coffee Bean Script ») est gratuite pour usage personnel seulement, jamais achetée : on ne peut pas la reprendre. Les licences typo sont à la charge du client, il faudra les lui chiffrer.
-- **Les photos de Julie Mercier** sont cédées pour le site et les réseaux sociaux uniquement, pendant 3 ans. Pas pour l'enseigne ni l'impression. Je voulais m'en servir pour les mises en situation : raté, il fallait me le signaler.
+- **Les photos de Nadia** sont faites à l'iPhone : très bien pour Instagram, trop justes pour une mise en situation en pleine page ou un document imprimé. Et sur `IMG_4188.jpg`, la visite de l'atelier, les visiteurs sont reconnaissables : sans leur accord écrit, on ne la publie pas. Je voulais tout mettre en grand : il fallait me le signaler.
 - **Les photos Instagram des clients** : aucun droit.
 
 **Thomas Nguyen** · 09:48
@@ -65,7 +65,7 @@ Gérard veut écrire « commerce équitable » partout, Lucas veut « bio » en 
 - **Nom** : Brûlerie Ferrand (inchangé). « Ferrand » seul possible en complément.
 - **Cibles** : restaurateurs et hôtels (58 % du CA) d'abord, clients boutique, puis jeunes actifs du quartier.
 - **Attendus** : l'identité finale (logo horizontal et version ronde, couleurs, typos), mini-charte de 12 pages, applications phase 1 (enseigne bandeau + drapeau, avatar, gobelets 2 couleurs, carte, cartes de visite).
-- **Contraintes** : rouge en accent, « Brûlerie » visible, logo horizontal + rond, ABF, pas de typo actuelle, pas de photos Julie en print, pas d'« équitable » ni de « bio ».
+- **Contraintes** : rouge en accent, « Brûlerie » visible, logo horizontal + rond, ABF, pas de typo actuelle, photos de Nadia en petit format seulement, pas de visiteurs reconnaissables, pas d'« équitable » ni de « bio ».
 - **Dates** : présentation jeudi 19 novembre 10 h à l'atelier, relecture interne lundi 16 novembre avec Hugo, dépôt mairie avant le 11 décembre.
 
 **Thomas Nguyen** · 09:59

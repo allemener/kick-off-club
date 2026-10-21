@@ -84,10 +84,10 @@ On vous présente une seule direction, aboutie, comme prévu au devis.
 Très bien. Je ne sais plus exactement ce qu'on a signé, mais je vous fais confiance.
 
 **Lucas Morel** · 14:44
-On a des super photos de l'atelier faites par une photographe l'année dernière, et sinon il y a toutes les photos que les clients postent sur Instagram, on pourrait les reprendre ?
+Il y a les photos de l'atelier que Nadia a faites en septembre, et sinon toutes les photos que les clients postent sur Instagram, on pourrait les reprendre ?
 
 **Nadia Benali** · 14:45
-Les photos de Julie, il faut vérifier ce qu'on a signé. Celles d'Instagram, on n'a aucun droit dessus.
+Les miennes, pas de souci, mais c'est fait au téléphone, hein. Celles d'Instagram, on n'a aucun droit dessus.
 
 **Toi** · 14:52
 Sur les applications, vous avez besoin de quoi en priorité ?
