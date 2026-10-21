@@ -1,4 +1,4 @@
-# Recette d'un brief Kick-off Club
+# Recette d'un brief Brief & Rebrief
 
 Une fiche pour fabriquer chaque brief de la même façon et gagner du temps. Compte **3 à 4 heures** par brief au début, **2 heures** quand la recette est rodée (avec l'aide de Claude ou d'un autre assistant pour rédiger).
 

@@ -1,4 +1,4 @@
-# Guide de Kick-off Club
+# Guide de Brief & Rebrief
 
 Ce guide explique comment mettre le site en ligne (une seule fois), puis comment ajouter un brief chaque semaine. Tout se fait depuis le site de GitHub, dans le navigateur. Aucun logiciel à installer.
 
@@ -12,14 +12,14 @@ Avant de commencer, ouvre `pages/mentions-legales.md` et remplace `[ADRESSE E-MA
 
 1. Connecte-toi sur [github.com](https://github.com).
 2. En haut à droite, clique sur **+** puis **New repository**.
-3. **Repository name** : `kick-off-club` (sans accent ni espace, c'est ce qui apparaîtra dans l'adresse du site).
+3. **Repository name** : `brief-rebrief` (sans accent ni espace, c'est ce qui apparaîtra dans l'adresse du site).
 4. Coche **Public**.
 5. Ne coche rien d'autre. Clique sur **Create repository**.
 
 ### Étape 2. Envoyer les fichiers du site
 
 1. Sur la page du dépôt vide, clique sur le lien **uploading an existing file**.
-2. Ouvre le dossier `kick-off-club` sur ton ordinateur, sélectionne **tout son contenu** (pas le dossier lui-même) et glisse-le dans la fenêtre GitHub.
+2. Ouvre le dossier `brief-rebrief` sur ton ordinateur, sélectionne **tout son contenu** (pas le dossier lui-même) et glisse-le dans la fenêtre GitHub.
    - Le dossier `.github` est caché sur Mac. Dans le Finder, appuie sur **Cmd + Maj + .** pour afficher les fichiers cachés. Il doit être envoyé, c'est lui qui publie le site.
 3. En bas, dans **Commit changes**, écris par exemple « Première version du site » et clique sur **Commit changes**.
 
@@ -32,7 +32,7 @@ Avant de commencer, ouvre `pages/mentions-legales.md` et remplace `[ADRESSE E-MA
 ### Étape 4. Vérifier
 
 1. Clique sur l'onglet **Actions** du dépôt. Une ligne « Publier le site » tourne (rond jaune).
-2. Quand elle passe au vert (1 à 2 minutes), retourne dans **Settings > Pages** : l'adresse du site s'affiche en haut, du type `https://allemener.github.io/kick-off-club/`.
+2. Quand elle passe au vert (1 à 2 minutes), retourne dans **Settings > Pages** : l'adresse du site s'affiche en haut, du type `https://allemener.github.io/brief-rebrief/`.
 
 Si la ligne n'apparaît pas dans **Actions**, va dans **Actions**, clique sur **Publier le site** à gauche, puis sur **Run workflow**.
 

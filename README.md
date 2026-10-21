@@ -1,4 +1,4 @@
-# Kick-off Club
+# Brief & Rebrief
 
 Des briefs d'agence fictifs, plus vrais que nature, pour apprendre à trier l'information. Un nouveau brief chaque semaine.
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Construit le site Kick-off Club à partir du dossier briefs/.
+"""Construit le site Brief & Rebrief à partir du dossier briefs/.
 
 Usage :
     python3 build.py            # construit le site dans _site/
@@ -27,7 +27,7 @@ STATIQUE = RACINE / "statique"
 PAGES = RACINE / "pages"
 SORTIE = RACINE / "_site"
 
-NOM_SITE = "Kick-off Club"
+NOM_SITE = "Brief & Rebrief"
 DESCRIPTION = "Un brief d'agence fictif chaque semaine, avec tout le dossier client. À toi de trier."
 
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
@@ -264,7 +264,7 @@ def page(titre, contenu, racine="", description=DESCRIPTION, actif="", cote="", 
 <a class="evitement" href="#contenu">Aller au contenu</a>
 <header class="bandeau">
   <div class="plein bandeau-int">
-    <a class="logo" href="{racine}index.html">{NOM_SITE}</a>
+    <a class="logo" href="{racine}index.html">{e(NOM_SITE)}</a>
     <nav aria-label="Navigation principale">
       <ul>
         {lien("index.html", "Brief", "semaine")}
@@ -280,7 +280,7 @@ def page(titre, contenu, racine="", description=DESCRIPTION, actif="", cote="", 
 </main>
 <footer class="pied">
   <div class="plein pied-int">
-    <p>{NOM_SITE} · Clients, personnes et agences sont fictifs. Gratuit, sans compte, sans pisteur. · <a href="{racine}mentions-legales.html">Mentions légales</a></p>
+    <p>{e(NOM_SITE)} · Clients, personnes et agences sont fictifs. Gratuit, sans compte, sans pisteur. · <a href="{racine}mentions-legales.html">Mentions légales</a></p>
   </div>
 </footer>
 </body>
@@ -756,7 +756,7 @@ def rendre_galerie(briefs):
 {corps}
 </div>"""
     return page("Rendus", contenu, actif="rendus", plein=True,
-                description="Les rendus des designers sur les briefs de Kick-off Club.")
+                description="Les rendus des designers sur les briefs de Brief & Rebrief.")
 
 
 def rendre_rendu(b, r):
