@@ -129,7 +129,7 @@ def credits_en_ligne(brut):
         if not ligne:
             continue
         role, sep, qui = ligne.partition(":")
-        morceaux.append(f"{role.strip()} : {qui.strip()}" if sep and qui.strip() else f"Crédits : {ligne}")
+        morceaux.append(f"{role.strip()[:1].upper()}{role.strip()[1:]} : {qui.strip()}" if sep and qui.strip() else f"Crédits : {ligne}")
     return "; ".join(morceaux)
 
 

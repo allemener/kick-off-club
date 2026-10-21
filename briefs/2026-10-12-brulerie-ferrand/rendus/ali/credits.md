@@ -1,4 +1,4 @@
 ---
 nom: "ALI"
-credits: "images : ChatGpt"
+credits: "Images : ChatGpt"
 ---
