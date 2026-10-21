@@ -77,7 +77,4 @@ Pour le brief Brûlerie Ferrand, les fichiers à remplacer (garde exactement les
 | `JM_atelier_002.jpg` | Mains d'un artisan qui contrôle des grains fraîchement torréfiés dans le bac de refroidissement |
 | `JM_atelier_003.jpg` | Étagères de sacs de café rouges dans une réserve d'atelier, lumière de fin de journée |
 | `JM_atelier_004.jpg` | Portrait d'un homme de 60 ans en tablier devant la machine, flou d'arrière-plan |
-| `06_Photos/Instagram_clients/insta_repost_1.jpg` (carré) | Latte art vu de dessus sur une table en bois, photo de smartphone |
-| `insta_repost_2.jpg` (carré) | Vitrine d'une petite boutique de café sur une rue en pente, photo de smartphone |
-| `insta_repost_3.jpg` (carré) | Sacs de café rouges posés sur un comptoir de restaurant, photo de smartphone |
 | `02_Archives/photo_vitrine_1972.jpg` | Photo d'archive en noir et blanc d'une devanture de torréfacteur lyonnais des années 70, enseigne peinte |
