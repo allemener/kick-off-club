@@ -1,0 +1,51 @@
+# Bouton « Publier un rendu » : récupère un envoi du formulaire Tally,
+# le range dans le bon brief, puis remet le site en ligne.
+name: Publier un rendu
+
+on:
+  workflow_dispatch:
+    inputs:
+      pseudo:
+        description: "Pseudo du designer (laisse vide pour le dernier envoi)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  importer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - id: rendu
+        run: python outils/importer_rendu.py "$PSEUDO"
+        env:
+          PSEUDO: ${{ inputs.pseudo }}
+          TALLY_API_KEY: ${{ secrets.TALLY_API_KEY }}
+      - name: Enregistrer le rendu
+        run: |
+          git config user.name "allemener"
+          git config user.email "allemener@users.noreply.github.com"
+          git add briefs
+          if git diff --cached --quiet; then
+            echo "Ce rendu est déjà en ligne, rien n'a changé."
+          else
+            git commit -m "Rendu de $NOM sur $BRIEF"
+            git push
+          fi
+        env:
+          NOM: ${{ steps.rendu.outputs.nom }}
+          BRIEF: ${{ steps.rendu.outputs.brief }}
+      # Un envoi fait par ce bouton ne relance pas le site tout seul : on le relance ici.
+      - run: gh workflow run publier.yml
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - run: echo "Rendu de **$NOM** publié. Le site se met à jour dans une minute." >> "$GITHUB_STEP_SUMMARY"
+        env:
+          NOM: ${{ steps.rendu.outputs.nom }}
